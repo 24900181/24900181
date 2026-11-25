@@ -2,7 +2,7 @@
 
 # Hey there!  I'm Nethra K
 
- AI & Data Science Engineering Student | Aspiring AI Developer
+ AI & Data Science Engineering Student | Aspiring AI/ML Engineer
 
  **I'm currently working on:** AI/ML projects and exploring real-world problem-solving through technology.
 
